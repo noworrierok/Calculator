@@ -26,6 +26,7 @@
 
 ## تصاویر برنامه
 ![صفحه اصلی ماشین حساب](mainscreenp.png)
+صفحه اصلی ماشین حساب](https://github.com/noworrierok/Calculator/raw/main/mainscreenp.png)
 
 ## تکنولوژی‌های استفاده شده
 - زبان: **Kotlin**
