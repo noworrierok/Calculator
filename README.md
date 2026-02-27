@@ -25,7 +25,7 @@
 - نمایش نتیجه بعد از زدن دکمه مساوی (=)
 
 ## تصاویر برنامه
-
+https://github.com/noworrierok/Calculator/blob/master/mainscreen.png
 <)
 
 ## تکنولوژی‌های استفاده شده
