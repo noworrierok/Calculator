@@ -25,8 +25,7 @@
 - نمایش نتیجه بعد از زدن دکمه مساوی (=)
 
 ## تصاویر برنامه
-https://github.com/noworrierok/Calculator/blob/master/mainscreen.png
-<)
+![صفحه اصلی ماشین حساب](mainscreenp.png)
 
 ## تکنولوژی‌های استفاده شده
 - زبان: **Kotlin**
