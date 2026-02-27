@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ImageView" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="btn">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/selector</item>
+        <item name="android:layout_margin">0.5dp</item>
+        <item name="android:textSize">40sp</item>
+    </style>
+
+
+    <style name="btn_line" parent="btn">
+        <item name="android:layout_width">200dp</item>
+        <item name="android:layout_weight">2</item>
+    </style>
+
+    <style name="btn_col" parent="btn">
+        <item name="android:background">@drawable/selector_color</item>
+
+    </style>
+</resources>
